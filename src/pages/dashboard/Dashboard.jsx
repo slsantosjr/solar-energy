@@ -1,4 +1,5 @@
 import Container from "../../components/templates/container"
+import { Bar } from "react-chart-2"
 
 export default function Dashboard() {
     return (
