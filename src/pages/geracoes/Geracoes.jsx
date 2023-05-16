@@ -1,4 +1,4 @@
-import Container from "../../components/templates/container"
+import Container from "../../components/templates/Container"
 
 export default function Geracoes() {
     return (

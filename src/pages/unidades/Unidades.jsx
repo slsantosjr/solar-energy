@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-import Container from "../../components/templates/container";
+import Container from "../../components/templates/Container";
 import { CadastroUnidades, ListaUnidades } from "../../components";
 
 export default function Unidades() {
